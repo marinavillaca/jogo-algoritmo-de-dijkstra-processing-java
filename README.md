@@ -54,3 +54,9 @@ Implementação do algoritmo Dijkstra para encontrar o caminho mais eficiente en
 - Estruturas de dados (Listas, Matrizes)
 - Algoritmos de busca (Dijkstra)
 
+🖥️ Sobre o Processing:
+
+O Processing é uma linguagem de programação e um ambiente de desenvolvimento voltado para a criação de arte visual e interativa. Com uma sintaxe simples baseada em Java, o Processing permite que artistas, designers e programadores desenvolvam gráficos 2D e 3D, animações e interações de forma rápida e intuitiva.
+A plataforma é amplamente utilizada em áreas como arte digital, visualização de dados, educação e prototipagem de jogos, oferecendo uma interface fácil de usar e recursos poderosos para explorar criatividade por meio da programação.
+
+
