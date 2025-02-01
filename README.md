@@ -33,7 +33,7 @@ Implementação do algoritmo Dijkstra para encontrar o caminho mais eficiente en
 
 ### 🔢 Implementação do Algoritmo de Dijkstra
 - O algoritmo deve calcular o **caminho mais curto** considerando os pesos dos terrenos:
-  - **Água:** Peso 1 (se tiver barco) / Infinito (se não tiver barco)
+  - **Água:** Peso 1 (se tiver barco)
   - **Grama:** Peso 2
   - **Areia:** Peso 3
 
@@ -42,24 +42,23 @@ Implementação do algoritmo Dijkstra para encontrar o caminho mais eficiente en
 
 ### 🖱️ Ações no Grid
 - O player deve **se mover até o ponto clicado** no grid, utilizando Dijkstra para encontrar o caminho mais curto.
----
-📦 Como executar
+
+### 📦 Como executar
 - Instale o Processing
 - Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
-- Abra o código no Processing e clique em Run.
-🚀
+- Abra o código no Processing e clique em Run. 
 
-🛠️ Tecnologias utilizadas
+### 🛠️ Tecnologias utilizadas
 - Processing (Java)
 - Estruturas de dados (Listas, Matrizes)
 - Algoritmos de busca (Dijkstra)
 
-🖥️ Sobre o Processing:
+### 🖥️ Sobre o Processing:
 
 O Processing é uma linguagem de programação e um ambiente de desenvolvimento voltado para a criação de arte visual e interativa. Com uma sintaxe simples baseada em Java, o Processing permite que artistas, designers e programadores desenvolvam gráficos 2D e 3D, animações e interações de forma rápida e intuitiva.
 A plataforma é amplamente utilizada em áreas como arte digital, visualização de dados, educação e prototipagem de jogos, oferecendo uma interface fácil de usar e recursos poderosos para explorar criatividade por meio da programação.
 
-🧪 Playtest
+### 🧪 Playtest
 
 > Veja a exibição de jogo aqui:
 > https://www.youtube.com/watch?v=0zMqBWq7JJQ&list=PLCI7snv1cekFfE4Alojy-UxX8I-c6UE1R
