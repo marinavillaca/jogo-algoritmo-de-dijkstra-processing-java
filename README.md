@@ -1,4 +1,3 @@
-# coltec-jogo-Algoritmo-de-Dijkstra-aeds
 # 🚀 Player com Algoritmo de Dijkstra
 ### 🕹️ Jogo de Aventura em Grid - Processing - JAVA
 ### 🎯 Objetivo
