@@ -45,7 +45,7 @@ Implementação do algoritmo Dijkstra para encontrar o caminho mais eficiente en
 
 ### 📦 Como executar
 - Instale o Processing
-- Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
+- Clone o repositório: git clone 
 - Abra o código no Processing e clique em Run. 
 
 ### 🛠️ Tecnologias utilizadas
