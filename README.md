@@ -8,7 +8,7 @@ Este projeto tem como objetivo implementar um player que se movimenta pelo camin
 
 O player só pode navegar pela água caso tenha um barco, que será colocado aleatoriamente no grid.
 ---
-🎮 Funcionalidades:
+### 🎮 Funcionalidades:
 
 🌍 Mapa Procedural: O jogo gera automaticamente um grid 10x10 com biomas variados.
 
@@ -21,7 +21,7 @@ O player só pode navegar pela água caso tenha um barco, que será colocado ale
 🗺️ Algoritmo de Caminho: 
 Implementação do algoritmo Dijkstra para encontrar o caminho mais eficiente entre pontos
 
-## ✅ Requisitos do Trabalho
+### ✅ Requisitos do Trabalho
 
 ### 🏃 Implementação do Player
 - Criar uma classe `Player` com atributos para **posição, velocidade e posse do barco**.
