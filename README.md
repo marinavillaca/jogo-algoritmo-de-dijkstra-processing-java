@@ -1,8 +1,7 @@
 # coltec-jogo-Algoritmo-de-Dijkstra-aeds
 # 🚀 Player com Algoritmo de Dijkstra
-# 🕹️ Jogo de Aventura em Grid - Processing
-
-## 🎯 Objetivo
+### 🕹️ Jogo de Aventura em Grid - Processing - JAVA
+### 🎯 Objetivo
 Este projeto tem como objetivo implementar um player que se movimenta pelo caminho mais curto em um grid finito, utilizando o **algoritmo de Dijkstra**. O grid representa diferentes tipos de terreno e obstáculos:
 
 - **Terrenos:** Grama, Areia, Água
