@@ -8,7 +8,7 @@ Este projeto tem como objetivo implementar um player que se movimenta pelo camin
 
 O player só pode navegar pela água caso tenha um barco, que será colocado aleatoriamente no grid.
 ---
-🎮 Funcionalidades
+🎮 Funcionalidades:
 
 🌍 Mapa Procedural: O jogo gera automaticamente um grid 10x10 com biomas variados.
 
@@ -19,8 +19,8 @@ O player só pode navegar pela água caso tenha um barco, que será colocado ale
 🧱 Obstáculos: Corais, pedras e cactos impedem a passagem.
 
 🗺️ Algoritmo de Caminho: 
-Implementação do algoritmo Dijkstra para encontrar o caminho mais eficiente entre pontos.
----
+Implementação do algoritmo Dijkstra para encontrar o caminho mais eficiente entre pontos
+
 ## ✅ Requisitos do Trabalho
 
 ### 🏃 Implementação do Player
@@ -59,4 +59,8 @@ Implementação do algoritmo Dijkstra para encontrar o caminho mais eficiente en
 O Processing é uma linguagem de programação e um ambiente de desenvolvimento voltado para a criação de arte visual e interativa. Com uma sintaxe simples baseada em Java, o Processing permite que artistas, designers e programadores desenvolvam gráficos 2D e 3D, animações e interações de forma rápida e intuitiva.
 A plataforma é amplamente utilizada em áreas como arte digital, visualização de dados, educação e prototipagem de jogos, oferecendo uma interface fácil de usar e recursos poderosos para explorar criatividade por meio da programação.
 
+🧪 Playtest
+
+> Veja a exibição de jogo aqui:
+> https://www.youtube.com/watch?v=0zMqBWq7JJQ&list=PLCI7snv1cekFfE4Alojy-UxX8I-c6UE1R
 
