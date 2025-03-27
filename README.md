@@ -60,6 +60,5 @@ A plataforma é amplamente utilizada em áreas como arte digital, visualização
 
 ### 🧪 Playtest
 
-> Veja a exibição de jogo aqui:
-> https://www.youtube.com/watch?v=0zMqBWq7JJQ&list=PLCI7snv1cekFfE4Alojy-UxX8I-c6UE1R
-
+> Veja a exibição de jogo aqui:<br>
+> https://www.youtube.com/watch?v=0zMqBWq7JJQ
